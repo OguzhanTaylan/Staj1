@@ -1,1 +1,1 @@
-worker: python Staj1/main.py
+worker: python main.py
